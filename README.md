@@ -5,7 +5,6 @@
 
 ### 下载链接
 
-```bash
-https://codeload.github.com/qq525448560/Unlocking-QQ-Music-Files/zip/refs/heads/main
-```
+
+    https://codeload.github.com/qq525448560/Unlocking-QQ-Music-Files/zip/refs/heads/main
 
